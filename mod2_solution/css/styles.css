@@ -11,34 +11,8 @@ h1 {
 
 .row {
   margin-bottom: 15px;
-}
-
-.row > div1 {
   width: 100%;
   border: 1px solid blue;
-  background-color: lightblue;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 15PX;
-  
-}
-
-.row > div2 {
-  width: 100%;
-  border: 1px solid blue;
-  background-color: lavender;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 15PX;
-  
-}
-
-.row > div3 {
-  width: 100%;
-  border: 1px solid blue;
-  background-color: lightgreen;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
