@@ -1,0 +1,13 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #4E5480;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #0059B3;
+	border-radius: 0;
+	border: 0;
+}
